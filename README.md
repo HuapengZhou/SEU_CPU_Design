@@ -1,1 +1,2 @@
-SEU ***04*** Spring Semester CPU
+# SEU 信息大三下计组课程设计
+Simple CPU Design using verilog
